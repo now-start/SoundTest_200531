@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="pixel_2" />
+        <pickBest>false</pickBest>
+        <target>android-Q</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30e22478-6764-442d-bc9e-6b171026f9a2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/studyproject/CourseFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1901">
+              <caret line="139" column="60" selection-start-line="139" selection-start-column="60" selection-end-line="139" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/arrays.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/studyproject/Schedule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-35">
+              <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="91" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/studyproject/CourseListAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>validateRe</find>
+      <find>responseListener</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_lock_outline_black_24dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_person_black_24dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_mail_outline_black_24dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register_ativity.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/LoginRequset.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/ValidateRequest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/RegisterRequest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/RegisterActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sechedule_fragement.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_statistics.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/SecheduleFragement.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/StatisticsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_textsms_black_24dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/Notice.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/Notice.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/notice.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/NoticeListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/LoginRequest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/Course.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/AddRequest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/cell_shape.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sechedule.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/CourseListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/course.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_course.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/CourseFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/studyproject/Schedule.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Pixel_2_API_Q" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.4.1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.studyproject" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.studyproject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\studyProject\app\src\main\res\drawable-v24" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </conf
